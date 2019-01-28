@@ -19,3 +19,9 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+# other files
+vue.config.js
+fakeComponents.js
+src/views/__Test.html
+src/views/__Test.vue
